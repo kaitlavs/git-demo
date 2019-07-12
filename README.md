@@ -2,8 +2,6 @@
 
 This is the first file in the repo.
 
-## Ipsum Below
+## Website Contents
 
-Hi my name is Kaitlyn Lavan and I am just doing some random things. Learning is fun lol
-
-Hi my name is Kaitlyn Lavan and I am just doing some random things. Learning is fun lolß
+1. index.html
